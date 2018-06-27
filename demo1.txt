@@ -4,3 +4,5 @@ Adding more content here!
 More content from local repo
 
 And now again from remote
+
+and final changes for Git GUI
