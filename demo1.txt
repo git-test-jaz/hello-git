@@ -2,3 +2,5 @@ The content for the text file here.
 Adding more content here!
 
 More content from local repo
+
+And now again from remote
